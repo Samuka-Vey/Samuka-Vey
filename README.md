@@ -7,13 +7,13 @@
 
 > **Data Scientist** | Apaixonado por Inteligência Artificial, Visão Computacional e Inovação  
 
-Sou um profissional com formação técnica em Python e Javascript, com experiência em projetos de aprendizado de máquina, visão computacional e desenvolvimento de APIs. Comecei a programar aos 17 anos, tive meu primeiro contato com ciência de dados durante o ensino médio-técnico no IFPI e, desde então, venho me dedicando a criar soluções criativas e eficientes.
+Sou um profissional com formação técnica em Python e Javascript, com experiência em projetos de aprendizado de máquina, visão computacional e desenvolvimento de APIs. Comecei a programar aos 17 anos, tive meu primeiro contato com ciência de dados durante o ensino médio-técnico no IFPI e atualmente na Universidade Estadual do Piauí, desde então, venho me dedicando a criar soluções criativas e eficientes.
 
 ---
 
 ## 🚀 Skills & Tecnologias
 
-- **Linguagens:** Python, JavaScript (ES6+), Java  
+- **Linguagens:** Python, JavaScript (ES6+), C++  
 - **Frameworks & Ferramentas:**  
   - 🐍 TensorFlow, scikit-learn, pandas, NumPy  
   - 🎥 OpenCV, MediaPipe  
